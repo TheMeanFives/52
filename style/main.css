@@ -345,8 +345,7 @@ hr {
     background: #b1795d; }
   .tile.tile-104 .tile-inner {
     color: #ffffff;
-    background: #840d49;
-    font-size: 45px; }
+    background: #840d49; }
     @media screen and (max-width: 520px) {
       .tile.tile-104 .tile-inner {
         font-size: 25px; } }
