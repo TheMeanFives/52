@@ -1,2 +1,2 @@
-# 125
+# 52
 A game about coolness.
