@@ -340,14 +340,29 @@ hr {
   .tile.tile-78 .tile-inner {
     color: #ffffff;
     background: #66c7f5; }
+  .tile.tile-81 .tile-inner {
+    color: #79ff42;
+    background: #140c64; }
   .tile.tile-82 .tile-inner {
-    color: #ffffff;
+    color: #dbb6a4;
     background: #b1795d; }
+  .tile.tile-83 .tile-inner {
+    color: #f2d921;
+    background: #09793c; }
+  .tile.tile-84 .tile-inner {
+    color: #388424;
+    background: #b7c468; }
   .tile.tile-104 .tile-inner {
     color: #ffffff;
-    background: #840d49; }
+    background: #830707; }
     @media screen and (max-width: 520px) {
       .tile.tile-104 .tile-inner {
+        font-size: 25px; } }
+  .tile.tile-130 .tile-inner {
+    color: #ffffff;
+    background: #9b0f96; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-130 .tile-inner {
         font-size: 25px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
